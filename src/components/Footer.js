@@ -9,16 +9,16 @@ export const Footer = () => {
                 </span>
                 <ul className="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
                     <li>
-                        <a href="https://www.linkedin.com/in/olaide-muheeb-76a4b210a/" target="_blank" className="mr-4 hover:underline md:mr-6 ">Facebook</a>
+                        <a href="https://www.linkedin.com/in/olaide-muheeb-76a4b210a/" target="_blank" className="mr-4 hover:underline md:mr-6 " rel="noreferrer" >Facebook</a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/olaide-muheeb-76a4b210a/" target="_blank" className="mr-4 hover:underline md:mr-6">Twitter</a>
+                        <a href="https://www.linkedin.com/in/olaide-muheeb-76a4b210a/" target="_blank" className="mr-4 hover:underline md:mr-6" rel="noreferrer">Twitter</a>
                     </li>
                     <li>
-                        <a href="https://www.behance.net/olaidemuheeb" target="_blank" className="mr-4 hover:underline md:mr-6">Instagram</a>
+                        <a href="https://www.behance.net/olaidemuheeb" target="_blank" className="mr-4 hover:underline md:mr-6" rel="noreferrer">Instagram</a>
                     </li>
                     <li>
-                        <a href="https://www.behance.net/olaidemuheeb" target="_blank" className="hover:underline">Youtube</a>
+                        <a href="https://www.behance.net/olaidemuheeb" target="_blank" className="hover:underline" rel="noreferrer">Youtube</a>
                     </li>
                 </ul>
             </div>
